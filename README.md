@@ -1,6 +1,6 @@
-# timeal
+# Timeal
 
-A new Flutter project.
+Don't waste your time, eat now!
 
 ## Getting Started
 
